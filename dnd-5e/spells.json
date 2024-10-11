@@ -1,1 +1,10 @@
-[]
+[
+	{
+		"name": "Fireball",
+		"level": 3,
+		"school": "Evocation",
+		"urls": {
+			"wikidot": "https://dnd5e.wikidot.com/spell:fireball"
+		}
+	}
+]
