@@ -1,10 +1,20 @@
 [
 	{
-		"name": "Fireball",
-		"level": 3,
-		"school": "Evocation",
+		"name": "Abi-Dalzim's Horrid Wilting",
+		"level": 8,
+		"school": "Necromancy",
 		"urls": {
-			"wikidot": "https://dnd5e.wikidot.com/spell:fireball"
+			"dndbeyond": "https://www.dndbeyond.com/spells/2367-abi-dalzims-horrid-wilting",
+			"wikidot": "https://dnd5e.wikidot.com/spell:abi-dalzims-horrid-wilting"
+		}
+	},
+	{
+		"name": "Absorb Elements",
+		"level": 1,
+		"school": "Abjuration",
+		"urls": {
+			"dndbeyond": "https://www.dndbeyond.com/spells/2368-absorb-elements",
+			"wikidot": "https://dnd5e.wikidot.com/spell:absorb-elements"
 		}
 	}
 ]
