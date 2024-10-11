@@ -1,0 +1,1 @@
+This repo is meant to serve as a sort-of static endpoint for data for tabletop games
