@@ -1,0 +1,10 @@
+{
+	"json.schemas": [
+		{
+			"fileMatch": [
+				"dnd-5e/spells.json"
+			],
+			"url": "./dnd-5e/spells.schema.json"
+		}
+	]
+}
